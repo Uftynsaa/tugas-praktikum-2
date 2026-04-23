@@ -1,4 +1,4 @@
-# Praktikum 5 - Navigasi dan Rute Flutter
+# Tugas praktikum 2 - Navigasi dan Rute Flutter
 
 ## Identitas
 
